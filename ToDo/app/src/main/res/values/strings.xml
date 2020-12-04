@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ToDo</string>
+    <string name="a">Login</string>
+    <string name="b">Email</string>
+    <string name="c">Password</string>
+    <string name="d">Submit</string>
+</resources>
